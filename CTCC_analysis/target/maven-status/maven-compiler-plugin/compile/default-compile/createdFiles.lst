@@ -1,0 +1,16 @@
+com\oswald\kv\key\ComDimension.class
+com\oswald\converter\DimensionConverter.class
+com\oswald\outputformat\MysqlOutputFormat$MysqlRecordWriter.class
+com\oswald\kv\key\DateDimension.class
+com\oswald\kv\base\BaseValue.class
+com\oswald\converter\DimensionConverterImpl.class
+com\oswald\utils\JdbcUtil.class
+com\oswald\utils\LRUCache.class
+com\oswald\outputformat\MysqlOutputFormat.class
+com\oswald\utils\JdbcInstance.class
+com\oswald\reducer\CountDurationReducer.class
+com\oswald\kv\base\BaseDimension.class
+com\oswald\runner\CountDurationRunner.class
+com\oswald\kv\value\CountDurationValue.class
+com\oswald\mapper\CountDurationMapper.class
+com\oswald\kv\key\ContactDimension.class

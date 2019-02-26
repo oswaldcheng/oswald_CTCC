@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CTCC_analysis" />
+        <module name="CTCC_consumer" />
+        <module name="CTCC_producer" />
+        <module name="CTCC_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CTCC_analysis" target="8" />
+      <module name="CTCC_consumer" target="1.8" />
+      <module name="CTCC_producer" target="1.8" />
+      <module name="CTCC_web" target="1.8" />
+      <module name="oswald_CTCC" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

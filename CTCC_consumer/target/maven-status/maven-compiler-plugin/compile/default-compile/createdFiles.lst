@@ -1,0 +1,6 @@
+com\oswald\hbase\CalleeWriteObserver.class
+com\oswald\utils\ConnectionInstance.class
+com\oswald\hbase\HBaseDAO.class
+com\oswald\utils\HBaseUtil.class
+com\oswald\kafka\HBaseConsumer.class
+com\oswald\utils\PropertiesUtil.class
